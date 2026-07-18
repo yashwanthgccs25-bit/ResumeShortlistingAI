@@ -1,0 +1,4 @@
+Resume,Parse Quality,Status
+Sample_Resume_1.pdf,Clean,Parsed Successfully
+Sample_Resume_2.pdf,Partial,Parsed Successfully
+Sample_Resume_3.pdf,Failed,Needs Manual Review
